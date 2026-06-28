@@ -21,7 +21,6 @@ The project demonstrates how WordPress can be used to build a real-world e-comme
 👉https://fashionelegancestore.wordpress.com/
 
 ---
-
 ## ✨ Features
 
 - 🛍️ Attractive fashion product display
